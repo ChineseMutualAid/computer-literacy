@@ -7,6 +7,7 @@
 - Download your resume as Microsoft Word file to Desktop
 - Open Gmail
 - Email cmaa.class@gmail.com, attaching your resume
+- Delete file that you downloaded
 
 ## Goals
 
