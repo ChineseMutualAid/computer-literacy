@@ -2,35 +2,49 @@
 
 ## Review
 
-- Open Internet Explorer from Desktop
-- Open Google Docs
-- Download your resume as Microsoft Word file to Desktop
-- Open Gmail
-- Email cmaa.class@gmail.com, attaching your resume
-- Delete file that you downloaded
+N/A
+
+## Prerequisites
+
+- Register or recover Google account
+- Install Gmail on smartphone
+- Install Google Docs on smartphone
 
 ## Goals
 
-- Check inbox for email containing cover letter template
-- Copy cover letter template and paste it into new Google Doc
-- Create a cover letter (don't have to finish it)
-- Download cover letter as Microsoft Word file
-- Send email to cmaa.class@gmail.com attaching your cover letter
+Create your resume:
 
-## Exercises
+- Open Resume Template email in Gmail
+- Click on Resume Template link
+- Google Docs will open Resume Template document
+- Tap ... (three dots) in upper right corner
+- Tap Share & export
+- Tap Make a copy
+- Rename document to "My Resume" (different between Android & iPhone)
+- Tap ✎ (pencil) in lower right corner
+- Delete "YOUR NAME" and replace with your own name
+- Tap ✓ (checkmark) in the upper left corner
+- Change the name (make more edits later)
 
-- Search for jobs online
-- Pick a job you're interested in
-- Send your resume and cover letter while applying for job
+Attach your resume to an email:
+
+- Open "My Resume" in Google Docs
+- Tap ... (three dots) in upper right corner
+- Tap Share & export
+- Tap Send a copy
+- Tap PDF
+- Tap OK
+- Choose Gmail
+- Fill in To (send to yourself)
+- Fill in Subject
+- Fill in Body (where it says "Compose email")
+- Tap ▶ (paper airplane) in upper right corner
 
 ## Extra
 
+- Finish resume
+- Create cover letter
 - Correct email address before sending
-- Install Google Docs on smartphone
 - Delete email
 - Archive email
 - Mark as spam
-
-## Homework
-
-Apply for jobs using a cover letter and resume!
