@@ -4,5 +4,5 @@
 - [Lesson 2](lesson-2.md)
 - [Lesson 3](lesson-3.md)
 - [Lesson 4](lesson-4.md)
-- Lesson 5
+- [Lesson 5](lesson-5.md)
 - Lesson 6
