@@ -11,7 +11,7 @@
 
 ## Goals
 
-Upload your resume to a website on Android:
+Upload your resume to a website (Android):
 
 - Open Google Docs
 - Find your resume (don't tap on it directly)
@@ -31,7 +31,32 @@ Upload your resume to a website on Android:
 - Tap Back (↩)
 - You should see the upload exercise page again
 
-Do you have a cover letter? Try uploading that using the same method!
+Upload your resume to a website (iOS):
+
+- Open Google Docs
+- Find your resume (don't tap on it directly)
+- Tap ... (three dots) to the right side of your resume's title
+- Tap Send a copy
+- Select PDF
+- Tap OK
+- Tap Save to Files
+- Tap iCloud Drive
+- Tap Add
+- Go back to Home Screen
+- Tap Files
+- Make sure downloaded resume is there
+- Go back to Home Screen
+- Open Chrome
+- Visit the upload exercise page at [pinto-calf.glitch.me](https://pinto-calf.glitch.me)
+- Tap Choose File
+- Choose Browse
+- Tap your resume
+- Tap Submit
+- You should see the file you just uploaded
+- Tap Back (↩)
+- You should see the upload exercise page again
+
+Do you have a cover letter? Try uploading it using the same method!
 
 ## Extra
 
