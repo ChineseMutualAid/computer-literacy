@@ -6,8 +6,8 @@
 
 ## Prerequisites
 
-- If you have iPhone, make sure you sign in to iCloud
-- If you have Android, make sure you can access Downloads
+- If you have iPhone, make sure you sign in to iCloud and can find your Files app
+- If you have Android, make sure you can access the Downloads app
 
 ## Goals
 
@@ -22,7 +22,7 @@ Upload your resume to a website (Android):
 - Make sure downloaded resume is there (should be .pdf file)
 - Go back to Home Screen
 - Open Chrome
-- Visit the upload exercise page at [pinto-calf.glitch.me](https://pinto-calf.glitch.me)
+- Visit the [upload exercise page](https://pinto-calf.glitch.me)
 - Tap Choose File
 - Choose Downloads
 - Tap your resume
@@ -47,7 +47,7 @@ Upload your resume to a website (iOS):
 - Make sure downloaded resume is there
 - Go back to Home Screen
 - Open Chrome
-- Visit the upload exercise page at [pinto-calf.glitch.me](https://pinto-calf.glitch.me)
+- Visit the [upload exercise page](https://pinto-calf.glitch.me)
 - Tap Choose File
 - Choose Browse
 - Tap your resume
