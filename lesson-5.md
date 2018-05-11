@@ -2,7 +2,7 @@
 
 ## Review
 
-- Send your resume to cmaa.class@gmail.com
+- Send your resume to cmaa.class@gmail.com via attachment
 
 ## Prerequisites
 
@@ -11,36 +11,29 @@
 
 ## Goals
 
-Create your cover letter:
+Upload your resume to a website on Android:
 
-- Open Cover Letter email in Gmail
-- Click on Cover Letter link
-- Google Docs will open Cover Letter document
-- Tap ... (three dots) in upper right corner
-- Tap Share & export
-- Tap Make a copy
+- Open Google Docs
+- Find your resume (don't tap on it directly)
+- Tap ... (three dots) to the right side of your resume's title
+- Tap Download
+- Go back to Home Screen
+- Tap Downloads
+- Make sure downloaded resume is there (should be .pdf file)
+- Go back to Home Screen
+- Open Chrome
+- Visit the upload exercise page at [pinto-calf.glitch.me](https://pinto-calf.glitch.me)
+- Tap Choose File
+- Choose Downloads
+- Tap your resume
+- Tap Submit
+- You should see the file you just uploaded
+- Tap Back (↩)
+- You should see the upload exercise page again
 
-Send an email that includes both cover letter and resume:
-
-- Open your resume in Google Docs
-- Tap ... (three dots) in upper right corner
-- Tap Share & export
-- Tap Send a copy
-- Tap PDF
-- Tap OK
-- Choose Gmail
-- Fill in To (send to yourself)
-- Fill in Subject
-- Go back to Google Docs and open your cover letter
-- Drag over some text
-- Tap Select All
-- Tap Copy
-- Go back to Gmail
-- Tap Compose email
-- Tap Paste
-- Edit the text of your cover letter to fit the job you are applying for
-- Tap ▶ (paper airplane) in upper right corner
+Do you have a cover letter? Try uploading that using the same method!
 
 ## Extra
 
-tbd
+- Create a cover letter in Google Docs
+- Send email that has both resume and cover letter attachments

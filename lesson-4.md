@@ -15,7 +15,7 @@ N/A
 Create your resume:
 
 - Open Resume Template email in Gmail
-- Click on Resume Template link
+- Tap on Resume Template link
 - Google Docs will open Resume Template document
 - Tap ... (three dots) in upper right corner
 - Tap Share & export
