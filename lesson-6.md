@@ -2,45 +2,53 @@
 
 ## Review
 
-- Upload your resume
-
-## Prerequisites
-
-- If you have iPhone, make sure you sign in to iCloud
-- If you have Android, make sure you can access Downloads
+- Upload your resume to upload-practice.glitch.me
+- Send your resume to cmaa.class@gmail.com
 
 ## Goals
 
-Put your cover letter in Google Docs:
+- Search for jobs using web browser
+- Find a job you are interested in and apply, using the skills you have acquired
+- If the application requires a cover letter, try using the [Cover Letter Generator](http://cover-letter.glitch.me/)
 
-- Open Cover Letter email in Gmail
-- Click on Cover Letter link
-- Google Docs will open Cover Letter document
-- Tap ... (three dots) in upper right corner
-- Tap Share & export
-- Tap Make a copy
+Send both cover letter and resume (Android):
 
-Send an email that includes both cover letter and resume:
-
-- Open your resume in Google Docs
-- Tap ... (three dots) in upper right corner
-- Tap Share & export
-- Tap Send a copy
-- Tap PDF
-- Tap OK
-- Choose Gmail
+- Open Google Docs
+- Download both your resume and your cover letter (use ... on right side of document, then select Download)
+- Go back to Home Screen
+- Open Gmail
+- Tap ✎ (pencil) in lower right corner
 - Fill in To (send to yourself)
 - Fill in Subject
-- Go back to Google Docs and open your cover letter
-- Double tap on the first piece of text
-- Tap Select All
-- Tap Copy
-- Go back to Gmail
-- Tap Compose email
-- Tap Paste
-- Edit the text of your cover letter to fit the job you are applying for
+- Fill in Body (where it says "Compose email")
+- Tap 📎 (paper clip) in upper right corner
+- Tap Attach file
+- Tap your resume
+- Tap 📎 (paper clip) in upper right corner
+- Tap Attach file
+- Tap your cover letter
 - Tap ▶ (paper airplane) in upper right corner
 
-## Extra
+Send both cover letter and resume (iOS):
 
-tbd
+- Open Google Docs
+- Download both your resume and your cover letter (use ... on right side of document, then select Download)
+- Go back to Home Screen
+- Open Mail
+- Tap ✎ (pencil) in lower right corner
+- Fill in To (send to yourself)
+- Fill in Subject
+- Fill in Body (above where it says "Sent from my iPhone")
+- Tap 📎 (paper clip) in upper right corner
+- Put the cursor after "Sent from my iPhone"
+- Long press until you see a menu
+- Swipe left on the menu until you see "Add Attachment"
+- Tap Add Attachment
+- Under Locations, select iCloud Drive
+- Tap your resume
+- Long press until you see a menu
+- Swipe left on the menu until you see "Add Attachment"
+- Tap Add Attachment
+- Under Locations, select iCloud Drive
+- Tap your cover letter
+- Tap Send in the upper right corner
